@@ -8,7 +8,7 @@ The app facilitates searching by film title, listing all records, and provides a
 
 Preview:
 
-<img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://www.behance.net/gallery/222058631/App-design" />
+<img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://www.behance.net/gallery/222058631/App-design](https://mir-s3-cdn-cf.behance.net/project_modules/1400/338bb4222058631.67df2d451327b.jpg" />
 
 
 ## ⚡ How to use
